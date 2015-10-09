@@ -1,4 +1,4 @@
-This program homogenizes and solves for the material response of cylindrical hollow composites consisting of helically oriented fiber reinfoced plies under pure bending loads.
+This Matlab program homogenizes and solves for the material response of cylindrical hollow composites consisting of helically oriented fiber reinfoced plies under pure bending loads.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%
 
